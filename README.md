@@ -1,1 +1,1 @@
-# star-uhura-LB
+# Base on Devuan Chimaera (Live-build)
